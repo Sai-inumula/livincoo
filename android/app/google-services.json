@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "213477575917",
+    "firebase_url": "https://a-rooms-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "a-rooms",
+    "storage_bucket": "a-rooms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213477575917:android:10424b968c8c2734e110e4",
+        "android_client_info": {
+          "package_name": "com.hostelhub.addhostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12SrsmZ4cNeQiNA-fVI8NHWxqdR9daO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213477575917:android:f7b6fddba4bd3a40e110e4",
+        "android_client_info": {
+          "package_name": "com.hostelhub.vendorhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12SrsmZ4cNeQiNA-fVI8NHWxqdR9daO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213477575917:android:cfab56c4bab0f0cee110e4",
+        "android_client_info": {
+          "package_name": "com.hotel.hostelhubb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12SrsmZ4cNeQiNA-fVI8NHWxqdR9daO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213477575917:android:208d8925a660df97e110e4",
+        "android_client_info": {
+          "package_name": "com.hotel.hotelspatner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12SrsmZ4cNeQiNA-fVI8NHWxqdR9daO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
